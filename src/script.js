@@ -1,3 +1,3 @@
 window.onload = function() {
-    alert("This mathpunch Proxy is in Beta");
+    alert("The Official CyberShade Search Proxy Made By The CyberShade Team");
 };
